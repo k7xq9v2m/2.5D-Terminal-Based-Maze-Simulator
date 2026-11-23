@@ -7,9 +7,11 @@ This is a small "game" I made in my spare time. It's a first person Maze explora
 
 ## Visuals
 <p align="center">
-  <img src="pictures/picture1.JPG" width="32%">
-  <img src="pictures/picture2.JPG" width="32%">
-  <img src="pictures/picture3.JPG" width="32%">
+  <img src="pictures/picture1.JPG" width="60%">
+  <br>
+  <img src="pictures/picture2.JPG" width="60%">
+  <br>
+  <img src="pictures/picture3.JPG" width="60%">
 </p>
 
 ### How to play the game
